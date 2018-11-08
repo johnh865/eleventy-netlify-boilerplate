@@ -18,3 +18,15 @@ For more info on installation and usage, view the project repo on [Github]({{ pk
 Or click the button below to deploy your own copy of this project to Netlify.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+
+# Test
+
+BUllets 
+
+* I want bullets
+- Bullets
+
+How about numbering
+
+1. works?
+2. yes???
