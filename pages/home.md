@@ -24,7 +24,9 @@ Or click the button below to deploy your own copy of this project to Netlify.
 BUllets 
 
    • I want bullets
+   
    • I want bullets
+   
    • I want bullets
 
 How about numbering
